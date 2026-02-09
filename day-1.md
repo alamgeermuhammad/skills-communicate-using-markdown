@@ -1,4 +1,3 @@
-#Daily Learning
-<h6> Github learning </h6>
-<h3> Alamgeer </h3>
-<h1> Hello everyone! </h1>
+<h1> #Daily Learning <h1>
+<h2> ## Morning Planning </h2>
+<h2> Review </h2>
